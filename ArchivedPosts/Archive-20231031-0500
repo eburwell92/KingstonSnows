@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+
+<head>
+    <title>KingstonSnows</title>
+    <link rel="stylesheet" href="kingstonsnows-style.css">
+    <meta name="description" content="Weather website for Kingston">
+    <meta name="keywords" content="kingston,snow,snows,kingstonsnows,new york, ethan burwell, hudson valley, weather, hudson valley weather">
+    <meta name="author" content="Ethan Burwell">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="3600">
+</head>
+
+<body>
+    
+    <div>
+    <div id="header">
+        <br><br><br><p><span style="font-style:italic; text-decoration:underline; font-weight:bold; font-size: 40px;">KingstonSnows</span><br>
+            <span style="font-size:12px;">Forecasting winter weather for Kingston, NY since 2009</span></p>
+
+        <a href="index.html">
+            <div id="snowfall"></div>
+        </a>
+        
+        <div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a>Updates</a></li>
+                    <li><a>Toolkit</a></li>
+                    <li><a>History</a></li>
+                    <li><a href="about.html">About</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    </div>
+<br>
+    <div id="content">
+        <p><span style="font-size:2em"><br>Happy Halloween!</span></p>
+ 
+            <p><span style="font-size:2em; color:red">School Forecast </span><br>
+            <span style="font-size:1.2em; color:red">through Friday November 3rd </span><br>
+            <span style="font-size:0.6em; color:red">Last updated: </span><span style="font-size:0.5em; color:black">5:00AM Tuesday October 31, 2023</span></p>
+            
+        
+            <div class="row">
+                <div class="column">
+                  <table>
+                    <tr>
+                        <p style="color:blue; font-size:0.8em"><u> Delay </u></p>
+                      <th style="background-color:#00ff00; line-height:2vh; font-size:1em; color:blue"> 0% <br>(Nope)</th>
+                    </tr>
+                  </table>
+                </div>
+                <div class="column">
+                  <table>
+                    <tr>
+                      <p style="color:blue; font-size:0.8em"><u> Closing </u></p>
+                      <th style="background-color:#00ff00; line-height:2vh; font-size:1em; color:blue"> 0% <br>(Nope)</th>
+                    </tr>
+                  </table>
+                </div>
+                <div class="column">
+                  <table>
+                    <tr>
+                        <p style="color:blue; font-size:0.8em"><u> Early Dismissal </u></p>
+                      <th style="background-color:#00ff00; line-height:2vh; font-size:1em; color:blue"> 0% <br>(Nope)</th>
+                    </tr>
+                  </table>
+                </div>
+            </div>
+              
+
+            <p><span style="font-size: 24px; color:black; font-weight:normal;">___________________</span><br><br>
+
+        <p class="text">
+            HAPPY HALLOWEEN to all who celebrate!!
+            With temperatures struggling to reach 50 degrees this week, you may feel like you've been tricked 😱 but for those of you not quite 
+            ready for winter, take comfort in the treat of knowing that there's no measurable snowfall currently on the horizon 👻
+        </p>
+        <img src="20231030-Forecast4.png" class="graphic">
+        <p class="text">
+            Also, you may or may not have noticed, but the KingstonSnows.com webpage is currently down. Long story short - I'm in the process of rebuilding the website from scratch 🤓 Hoping to have it back up later this week and then to add some new features over the next few weeks 🙏
+        </p>
+
+<!-- #not needed for this udate
+        <p><span style="font-size:36px; color:red;"><br>Next Update:</span><br><span style="font-size:36px;">Tomorrow</span></p>
+-->
+        <p style="font-size:24px">Safe trick-or-treating to all! <br> -Ethan</p>
+
+        
+        <div id="footer">
+            <p>KingstonSnows | Kingston, New York <br> <span style="font-size:small">Website built by Ethan Burwell</span></p>
+            <a href="">
+            <img src="">
+            </a>
+        </div>
+
+    </div>
+
+
+    
+
+</body>
+
+<footer>
+</footer>
