@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+
+<head>
+    <title>KingstonSnows</title>
+    <link rel="stylesheet" href="kingstonsnows-style.css">
+    <meta name="description" content="Weather website for Kingston">
+    <meta name="keywords" content="kingston,snow,snows,kingstonsnows,new york, ethan burwell, hudson valley, weather, hudson valley weather">
+    <meta name="author" content="Ethan Burwell">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="3600">
+</head>
+
+<body>
+    
+    <div>
+    <div id="header">
+        <br><br><br><p><span style="font-style:italic; text-decoration:underline; font-weight:bold; font-size: 40px;">KingstonSnows</span><br>
+            <span style="font-size:12px;">Forecasting winter weather for Kingston, NY since 2009</span></p>
+
+        <a href="index.html">
+            <div id="snowfall"></div>
+        </a>
+        
+        <div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="updates.html">Updates</a></li>
+                    <li><a href="toolkit.html">Toolkit</a></li>
+                    <li><a>History</a></li>
+                    <li><a href="about.html">About</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    </div>
+<br>
+    <div id="content">
+     <div style="background-color:red; color:yellow">
+            <p> 
+                Warning: this is an old update that has been archived. This update is not current.
+            </p>
+        </div>
+        <p><span style="font-size:2em"><br>Steady rain moving in</span></p>
+ 
+            <p><span style="font-size:2em; color:red">School Forecast</span><br>
+            <span style="font-size:1.2em; color:red">for Monday December 11th </span><br>
+            <span style="font-size:0.8em; color:red">Last updated: </span><span style="font-size:0.5em; color:black">10:50AM Monday December 10, 2023</span></p>
+            
+        
+            <div class="row">
+                <div class="column">
+                  <table>
+                    <tr>
+                        <p style="color:blue; font-size:0.8em"><u> Delay </u></p>
+                      <th style="background-color:#00ff00; line-height:2vh; font-size:1em; color:blue"> 0% <br>(Nope)</th>
+                    </tr>
+                  </table>
+                </div>
+                <div class="column">
+                  <table>
+                    <tr>
+                      <p style="color:blue; font-size:0.8em"><u> Closing </u></p>
+                      <th style="background-color:#00ff00; line-height:2vh; font-size:1em; color:blue"> 0% <br>(Nope)</th>
+                    </tr>
+                  </table>
+                </div>
+                <div class="column">
+                  <table>
+                    <tr>
+                        <p style="color:blue; font-size:0.8em"><u> Early Dismissal </u></p>
+                      <th style="background-color:#00ff00; line-height:2vh; font-size:1em; color:blue"> 0% <br>(Nope)</th>
+                    </tr>
+                  </table>
+                </div>
+            </div>
+              
+
+            <p><span style="font-size: 24px; color:black; font-weight:normal;">___________________</span><br><br>
+
+        <p class="text">
+            A sprawling storm system is currently moving along the entire east coast. This storm will bring our area very wet weather over 
+            the next 24 hours. While the higher terrain outside of the Kingston area will likely see accumulating snow, here in Kingston mainly
+            rain is expected.
+        </p>
+        <img src="20231210-radar.png" class="graphic">
+        <p class="text">
+            As of 10:50AM, temperatures are currently around 51 degrees across the Kingston area. Temperatures may nudge up a few more degrees this afternoon.
+            Current radar also reveals rain over central New York that should begin to push into our area over the next hour or so. Steady rain will fall
+            this afternoon and overnight. Cold air on the back side of the storm will cause our temperatures to fall overnight. For much of eastern New York
+            the cooler temperatures will be enough to change rain over to wet snow. However, here in the immediate Kingston area, temperatures will likely
+            remain just above freezing. As a result, rain is expected. Between 2 and 3 inches of rain are likely. The storm will taper off around 10AM tomorrow.
+            Once clouds clear by Monday night, clear calm weather is expected for the rest of the week.
+        </p>
+         <img src="20231210-6day.png" class="graphic">
+        <p class="text">
+            During the last few hours of the storm, between about 6AM and 10AM, it is possible that temperatures in Kingston fall just enough to allow some wet 
+            snowflakes to fall. This could allow for a light coating on grassy surfaces and cars. However, given the wet ground, the marginal temperatures, and 
+            the short duration of any snowflakes, travel impacts related to snow are not anticipated in the immediate Kingston area.  
+        </p>
+
+
+        <br>
+     
+        <p><span style="font-size:36px; color:red;"><br>Next Update:</span><br><span style="font-size:36px;">By 10PM tonight</span></p>
+
+        <p style="font-size:24px"> -Ethan</p>
+        <br>
+
+        
+        <div id="footer" style="line-spacing:1.25">
+            <p>KingstonSnows | Kingston, New York <br> <span style="font-size:small">Website built by Ethan Burwell</span><br>
+            <a href="https://www.facebook.com/KingstonSnows">
+                <img src="facebook_logo.svg" width="30px">
+            </a>
+            </p>
+            
+        </div>
+
+    </div>
+
+
+    
+
+</body>
+
+<footer>
+</footer>
