@@ -243,12 +243,12 @@
         .then(response => response.json())
         .then(data => {
             // Get the element to change
-            const kingston = document.getElementById('kingston');
-            const elementClass = kingston.className;
+            const elementkingston = document.getElementById('kingston');
+            const CurrentElementClass = kingston.className;
 
             // Apply the class from JSON data
-            kingston.classList.remove('elementClass');
-            kingston.classList.add(data.kingston);
+            elementkingston.classList.remove('CurrentElementClass');
+            elementkingston.classList.add(data.kingston);
 
             console.log("Removed class:", elementClass);
             console.log("New class:",data.kingston);
