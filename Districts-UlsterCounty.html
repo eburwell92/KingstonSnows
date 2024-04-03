@@ -245,8 +245,7 @@
             const elementkingston = document.getElementById('kingston');
 
             // Apply the class from JSON data
-            elementkingston.classList.add(data.kingston);
-
+            elementkingston.classList.add(data.UlsterCounty.kingston);
             console.log("New class:",data.UlsterCounty.kingston);
         })
         .catch(error => console.error('Error fetching JSON:', error));      
