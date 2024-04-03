@@ -1,0 +1,23 @@
+
+{
+    "DutchessCounty": {
+        "poughkeepsie" : "none",
+    },
+    "UlsterCounty": {
+        "kingston" : "none",
+        "saugerties" : "none",
+        "onteora" : "none",
+        "margaretville" : "none",
+        "livingston manor" : "none",
+        "tri-valley" : "none",
+        "rondout" : "none",
+        "new paltz" : "none",
+        "ellenville" : "none",
+        "fallsburg" : "none",
+        "pine bush" : "none",
+        "wallkill" : "none",
+        "marlboro" : "none",
+        "highland" : "none",
+        "valley central" : "none"
+    } 
+}
