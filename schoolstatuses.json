@@ -8,16 +8,16 @@
         "fallsburg" : "none",
         "highland" : "none",
         "kingston" : "none",
-        "livingston manor" : "none",
+        "livingston_manor" : "none",
         "margaretville" : "none",
         "marlboro" : "none",
-        "new paltz" : "none",
+        "new_paltz" : "none",
         "onteora" : "none",
-        "pine bush" : "none",
+        "pine_bush" : "none",
         "rondout" : "none",
         "saugerties" : "none",
         "tri-valley" : "none",
-        "valley central" : "none"
+        "valley_central" : "none"
         "wallkill" : "none",
     } 
 }
