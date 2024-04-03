@@ -4,20 +4,20 @@
         "poughkeepsie" : "none"
     },
     "UlsterCounty": {
-        "ellenville" : "none",
-        "fallsburg" : "none",
-        "highland" : "none",
-        "kingston" : "none",
-        "livingston_manor" : "none",
-        "margaretville" : "none",
-        "marlboro" : "none",
-        "new_paltz" : "none",
-        "onteora" : "none",
-        "pine_bush" : "none",
-        "rondout" : "none",
-        "saugerties" : "none",
-        "tri_valley" : "none",
-        "valley_central" : "none",
-        "wallkill" : "none"
+        "ellenville" : "delay",
+        "fallsburg" : "closed",
+        "highland" : "delay",
+        "kingston" : "closed",
+        "livingston_manor" : "delay",
+        "margaretville" : "closed",
+        "marlboro" : "delay",
+        "new_paltz" : "closed",
+        "onteora" : "delay",
+        "pine_bush" : "closed",
+        "rondout" : "delay",
+        "saugerties" : "closed",
+        "tri_valley" : "delay",
+        "valley_central" : "closed",
+        "wallkill" : "delay"
     } 
 }
