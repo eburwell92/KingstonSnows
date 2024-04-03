@@ -56,29 +56,13 @@
         }
     </style>
 
-<script>
+  <script>
    function showDetails(tree) {
      let animalType = tree.getAttribute("data-animal-type");
      alert("The " + tree.innerHTML + " is a " + animalType + ".");
    }
    </script>
     
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-    // Fetch JSON data
-    fetch('schoolstatuses.json')
-        .then(response => response.json())
-        .then(data => {
-            // Get the element to change
-            const kingston = document.getElementById('kingston');
-
-            // Apply the class from JSON data
-            kingston.classList.add(data.kingston);
-        })
-        .catch(error => console.error('Error fetching JSON:', error));
-});
-
-    </script>
 </head>
 
 <body>
@@ -251,6 +235,23 @@
       const d = new Date();
       document.getElementById("date").innerHTML = dd;
    </script>
+    
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+    // Fetch JSON data
+    fetch('schoolstatuses.json')
+        .then(response => response.json())
+        .then(data => {
+            // Get the element to change
+            const kingston = document.getElementById('kingston');
+
+            // Apply the class from JSON data
+            kingston.classList.add(data.kingston);
+        })
+        .catch(error => console.error('Error fetching JSON:', error));
+});
+
+    </script>
 
 </body>
 </html>
