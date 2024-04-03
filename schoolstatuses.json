@@ -4,20 +4,20 @@
         "poughkeepsie" : "none"
     },
     "UlsterCounty": {
-        "kingston" : "none",
-        "saugerties" : "none",
-        "onteora" : "none",
-        "margaretville" : "none",
-        "livingston manor" : "none",
-        "tri-valley" : "none",
-        "rondout" : "none",
-        "new paltz" : "none",
         "ellenville" : "none",
         "fallsburg" : "none",
-        "pine bush" : "none",
-        "wallkill" : "none",
-        "marlboro" : "none",
         "highland" : "none",
+        "kingston" : "none",
+        "livingston manor" : "none",
+        "margaretville" : "none",
+        "marlboro" : "none",
+        "new paltz" : "none",
+        "onteora" : "none",
+        "pine bush" : "none",
+        "rondout" : "none",
+        "saugerties" : "none",
+        "tri-valley" : "none",
         "valley central" : "none"
+        "wallkill" : "none",
     } 
 }
