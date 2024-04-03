@@ -244,8 +244,10 @@
         .then(data => {
             // Get the element to change
             const kingston = document.getElementById('kingston');
+            const elementClass = kingston.className;
 
             // Apply the class from JSON data
+            kingston.classList.remove('elementClass');
             kingston.classList.add(data.kingston);
         })
         .catch(error => console.error('Error fetching JSON:', error));
