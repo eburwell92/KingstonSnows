@@ -4,7 +4,7 @@
         "poughkeepsie" : "none"
     },
     "UlsterCounty": {
-        "kingston" : "none",
+        "kingston" : "delay",
         "saugerties" : "none",
         "onteora" : "none",
         "margaretville" : "none",
