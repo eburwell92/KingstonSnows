@@ -4,7 +4,7 @@
         "poughkeepsie" : "none"
     },
     "UlsterCounty": {
-        "ellenville" : "delay", //kingstoncityschools.org
+        "ellenville" : "delay",
         "fallsburg" : "closed",
         "highland" : "delay",
         "kingston" : "closed",
