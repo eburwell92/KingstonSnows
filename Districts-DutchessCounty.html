@@ -197,10 +197,71 @@
             Wappingers
         </tspan>
      </text>
-
 </svg>
+    
     <p style="font-size:20px;font-family:Arial, Helvetica, sans-serif">
     Last updated: 7:50AM Tuesday February 13, 2024 <br><br>
-    <a href="NYCounties.html"> <button style="padding:2px;font-size:18px;font-family:Arial, Helvetica, sans-serif"> Return to New York State Map</button></a></p>
-    <br>
+    <a href="Districts-NewYorkState.html"> <button style="padding:2px;font-size:18px;font-family:Arial, Helvetica, sans-serif"> Return to New York State Map</button></a></p>
+
+   <script>
+        document.addEventListener("DOMContentLoaded", function() {
+    // Fetch JSON data
+    fetch('schoolstatuses.json')
+        .then(response => response.json())
+        .then(data => {
+            // Get the element to change then Apply the class from JSON data
+            
+            const elementarlington = document.getElementById('arlington');
+            elementarlington.classList.add(data.UlsterCounty.arlington);
+
+            const elementbeacon = document.getElementById('beacon');
+            elementbeacon.classList.add(data.UlsterCounty.beacon);
+            
+            const elementcarmel = document.getElementById('carmel');
+            elementcarmel.classList.add(data.UlsterCounty.carmel);
+
+            const elementdover = document.getElementById('dover');
+            elementdover.classList.add(data.UlsterCounty.dover);
+            
+            const elementhaldane = document.getElementById('haldane');
+            elementhaldane.classList.add(data.UlsterCounty.haldane);
+
+            const elementhyde_park = document.getElementById('hyde_park');
+            elementhyde_park.classList.add(data.UlsterCounty.hyde_park);
+
+            const elementmillbrook = document.getElementById('millbrook');
+            elementmillbrook.classList.add(data.UlsterCounty.millbrook);
+
+            const elementnortheast = document.getElementById('northeast');
+            elementnortheast.classList.add(data.UlsterCounty.northeast);
+
+            const elementpawling = document.getElementById('pawling');
+            elementpawling.classList.add(data.UlsterCounty.pawling);
+
+            const elementpine_plains = document.getElementById('pine_plains');
+            elementpine_plains.classList.add(data.UlsterCounty.pine_plains);
+
+            const elementpoughkeepsie = document.getElementById('poughkeepsie');
+            elementpoughkeepsie.classList.add(data.UlsterCounty.poughkeepsie);
+
+            const elementred_hook = document.getElementById('red_hook');
+            elementred_hook.classList.add(data.UlsterCounty.red_hook);
+
+            const elementrhinebeck = document.getElementById('rhinebeck');
+            elementrhinebeck.classList.add(data.UlsterCounty.rhinebeck);
+
+            const elementspackenkill = document.getElementById('spackenkill');
+            elementspackenkill.classList.add(data.UlsterCounty.spackenkill);
+
+            const elementtaconic_hills = document.getElementById('taconic_hills');
+            elementtaconic_hills.classList.add(data.UlsterCounty.taconic_hills);
+
+            const elementwappingers = document.getElementById('wappingers');
+            elementwappingers.classList.add(data.UlsterCounty.wappingers);
+
+        })
+        .catch(error => console.error('Error fetching JSON:', error));      
+});
+
+    </script>
 </body>
