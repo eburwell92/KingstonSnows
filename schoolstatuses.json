@@ -1,7 +1,22 @@
 
 {
     "DutchessCounty": {
-        "poughkeepsie" : "none"
+        "arlington" : "none",
+        "beacon" : "delay",
+        "carmel" : "closed",
+        "dover" : "earlydismissal",
+        "haldane" : "none",
+        "hyde_park" : "delay",
+        "millbrook" : "closed",
+        "northeast" : "earlydismissal",
+        "pawling" : "none",
+        "pine_plains" : "delay",
+        "poughkeepsie" : "closed",
+        "red_hook" : "earlydismissa",
+        "rhinebeck" : "none",
+        "spackenkill" : "delay",
+        "taconic_hills" : "closed",
+        "wappingers" : "earlydismissal"
     },
     "UlsterCounty": {
         "ellenville" : "delay",
