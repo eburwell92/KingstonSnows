@@ -14,7 +14,7 @@
             {"district" : "ravena_coeymans",     "status"  : "delay"}
                 ],
         "Dutchess": [
-            {"district" : "arlington",     "status" : "none"},
+            {"district" : "arlington",     "status" : "closed"},
             {"district" : "beacon",        "status"  : "delay"},
             {"district" : "carmel",        "status"  : "closed"},
             {"district" : "dover",         "status"  : "earlydismissal"},
