@@ -19,7 +19,7 @@
         "wappingers" : "earlydismissal"
     },
     "UlsterCounty": {
-        "ellenville" : "delay",
+        {"district": "ellenville", "status" : "closed"},
         "fallsburg" : "closed",
         "highland" : "delay",
         "kingston" : "closed",
