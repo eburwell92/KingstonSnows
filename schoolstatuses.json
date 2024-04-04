@@ -10,7 +10,7 @@
         {"district" : "hunter_tannersville", "status"  : "closed"},
         {"district" : "margaretville", "status"  : "earlydismissal"},
         {"district" : "onteora", "status"  : "none"},
-        {"district" : "ravena_coeymans", "status"  : "delay"},
+        {"district" : "ravena_coeymans", "status"  : "delay"}
             ],
     "DutchessCounty": [
         {"district" : "arlington", "status" : "none"},
