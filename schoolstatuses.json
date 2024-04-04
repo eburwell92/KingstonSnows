@@ -19,7 +19,7 @@
         {"district" : "wappingers", "status"  : "earlydismissal"}
             ],
     "UlsterCounty": [
-        {"district" : "ellenville", "status" : "closed"},
+        {"district" : "ellenville", "status" : "earlydismissal"},
         {"district" : "fallsburg", "status" : "closed"},
         {"district" : "highland", "status" : "delay"},
         {"district" : "kingston", "status" : "closed"},
@@ -33,6 +33,6 @@
         {"district" : "saugerties", "status" : "closed"},
         {"district" : "tri_valley", "status" : "delay"},
         {"district" : "valley_central", "status" : "closed"},
-        {"district" : "wallkill", "status" : "delay"}
+        {"district" : "wallkill", "status" : "none"}
     ] 
 }
