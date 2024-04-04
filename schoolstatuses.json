@@ -18,7 +18,7 @@
         "taconic_hills" : "closed",
         "wappingers" : "earlydismissal"
     },
-    "UlsterCounty": {
+    "UlsterCounty": [
         {"district": "ellenville", "status" : "closed"},
         "fallsburg" : "closed",
         "highland" : "delay",
@@ -34,5 +34,5 @@
         "tri_valley" : "delay",
         "valley_central" : "closed",
         "wallkill" : "delay"
-    } 
+    ] 
 }
