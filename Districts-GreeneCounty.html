@@ -166,34 +166,34 @@ fetch('schoolstatuses.json')
         // Get the element to change then Apply the class from JSON data
         
         const elementashland_jewett = document.getElementById('ashland_jewett');
-        elementashland_jewett.classList.add(data.DutchessCounty[0].status);
+        elementashland_jewett.classList.add(data.County.Greene[0].status);
 
         const elementcairo_durham = document.getElementById('cairo_durham');
-        elementcairo_durham.classList.add(data.DutchessCounty[1].status);
+        elementcairo_durham.classList.add(data.County.Greene[1].status);
         
         const elementcatskill = document.getElementById('catskill');
-        elementcatskill.classList.add(data.DutchessCounty[2].status);
+        elementcatskill.classList.add(data.County.Greene[2].status);
 
         const elementcoxsackie_athens = document.getElementById('coxsackie_athens');
-        elementcoxsackie_athens.classList.add(data.DutchessCounty[3].status);
+        elementcoxsackie_athens.classList.add(data.County.Greene[3].status);
         
         const elementgilboa_conesville = document.getElementById('gilboa_conesville');
-        elementgilboa_conesville.classList.add(data.DutchessCounty[4].status);
+        elementgilboa_conesville.classList.add(data.County.Greene[4].status);
 
         const elementgreenville = document.getElementById('greenville');
-        elementgreenville.classList.add(data.DutchessCounty[5].status);
+        elementgreenville.classList.add(data.County.Greene[5].status);
 
         const elementhunter_tannersville = document.getElementById('hunter_tannersville');
-        elementhunter_tannersville.classList.add(data.DutchessCounty[6].status);
+        elementhunter_tannersville.classList.add(data.County.Greene[6].status);
 
         const elementmargaretville = document.getElementById('margaretville');
-        elementmargaretville.classList.add(data.DutchessCounty[7].status);
+        elementmargaretville.classList.add(data.County.Greene[7].status);
         
         const elementonteora  = document.getElementById('onteora');
-        elementonteora.classList.add(data.DutchessCounty[8].status);
+        elementonteora.classList.add(data.County.Greene[8].status);
 
         const elementravena_coeymans = document.getElementById('ravena_coeymans');
-        elementravena_coeymans.classList.add(data.DutchessCounty[9].status);
+        elementravena_coeymans.classList.add(data.County.Greene[9].status);
 
     })
     .catch(error => console.error('Error fetching JSON:', error));      
