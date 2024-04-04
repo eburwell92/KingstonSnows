@@ -1,5 +1,17 @@
 
 {
+    "GreeneCounty": [
+        {"district" : "ashland_jewett", "status" : "none"},
+        {"district" : "cairo_durham", "status"  : "delay"},
+        {"district" : "catskill", "status"  : "closed"},
+        {"district" : "coxsackie_athens", "status"  : "earlydismissal"},
+        {"district" : "gilboa_conesville", "status"  : "none"},
+        {"district" : "greenville", "status"  : "delay"},
+        {"district" : "hunter-tannersville", "status"  : "closed"},
+        {"district" : "margaretville", "status"  : "earlydismissal"},
+        {"district" : "onteora", "status"  : "none"},
+        {"district" : "ravena_coeymans", "status"  : "delay"},
+            ],
     "DutchessCounty": [
         {"district" : "arlington", "status" : "none"},
         {"district" : "beacon", "status"  : "delay"},
