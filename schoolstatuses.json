@@ -16,7 +16,7 @@
         {"district" : "rhinebeck", "status"  : "none"},
         {"district" : "spackenkill", "status"  : "delay"},
         {"district" : "taconic_hills", "status"  : "closed"},
-        {"district" : "wappingers", "status"  : "earlydismissal}"
+        {"district" : "wappingers", "status"  : "earlydismissal"}
             ],
     "UlsterCounty": [
         {"district" : "ellenville", "status" : "closed"},
