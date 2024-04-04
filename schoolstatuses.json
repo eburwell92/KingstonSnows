@@ -1,6 +1,6 @@
 
 {
-    "County": [
+    "County": {
         "Greene": [
             {"district" : "ashland_jewett",      "status" : "none"},
             {"district" : "cairo_durham",        "status"  : "delay"},
@@ -48,5 +48,5 @@
             {"district" : "valley_central",   "status" : "closed"},
             {"district" : "wallkill",         "status" : "none"}
                 ] 
-    ]
+    }
 }
