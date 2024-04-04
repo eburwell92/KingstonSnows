@@ -21,18 +21,18 @@
     "UlsterCounty": [
         {"district" : "ellenville", "status" : "closed"},
         {"district" : "fallsburg", "status" : "closed"},
-        {"district" : "highland" : "delay"},
-        {"district" : "kingston" : "closed"},
-        {"district" : "livingston_manor" : "delay"},
-        {"district" : "margaretville" : "closed"},
-        {"district" : "marlboro" : "delay"},
-        {"district" : "new_paltz" : "closed"},
-        {"district" : "onteora" : "delay"},
-        {"district" : "pine_bush" : "closed"},
-        {"district" : "rondout" : "delay"},
-        {"district" : "saugerties" : "closed"},
-        {"district" : "tri_valley" : "delay"},
-        {"district" : "valley_central" : "closed"},
-        {"district" : "wallkill" : "delay"}
+        {"district" : "highland", "status" : "delay"},
+        {"district" : "kingston", "status" : "closed"},
+        {"district" : "livingston_manor", "status" : "delay"},
+        {"district" : "margaretville", "status" : "closed"},
+        {"district" : "marlboro", "status" : "delay"},
+        {"district" : "new_paltz", "status" : "closed"},
+        {"district" : "onteora", "status" : "delay"},
+        {"district" : "pine_bush", "status" : "closed"},
+        {"district" : "rondout", "status" : "delay"},
+        {"district" : "saugerties", "status" : "closed"},
+        {"district" : "tri_valley", "status" : "delay"},
+        {"district" : "valley_central", "status" : "closed"},
+        {"district" : "wallkill", "status" : "delay"}
     ] 
 }
