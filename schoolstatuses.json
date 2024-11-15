@@ -3,12 +3,12 @@
     "County": {
         "Greene": [
             {"district" : "ashland_jewett",      "status"  : "closed",     "updated" : "20240404"},
-            {"district" : "cairo_durham",        "status"  : "closed",     "updated" : "20240404"},
+            {"district" : "cairo_durham",        "status"  : "delay",     "updated" : "20240404"},
             {"district" : "catskill",            "status"  : "closed",     "updated" : "20240404"},
-            {"district" : "coxsackie_athens",    "status"  : "closed",     "updated" : "20240404"},
-            {"district" : "gilboa_conesville",   "status"  : "closed",     "updated" : "20240404"},
+            {"district" : "coxsackie_athens",    "status"  : "dismissal",     "updated" : "20240404"},
+            {"district" : "gilboa_conesville",   "status"  : "delay",     "updated" : "20240404"},
             {"district" : "greenville",          "status"  : "closed",     "updated" : "20240404"},
-            {"district" : "hunter_tannersville", "status"  : "closed",     "updated" : "20240404"},
+            {"district" : "hunter_tannersville", "status"  : "dismissal",     "updated" : "20240404"},
             {"district" : "margaretville",       "status"  : "closed",     "updated" : "20240404"},
             {"district" : "onteora",             "status"  : "delay",     "updated" : "20240404"},
             {"district" : "ravena_coeymans",     "status"  : "closed",     "updated" : "20240404"}
