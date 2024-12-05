@@ -32,21 +32,21 @@
             {"district" : "wappingers",    "status"  : "delay",     "updated" : "20240404"}
                 ],
         "Ulster": [
-            {"district" : "ellenville",       "status" : "none",     "updated" : "20240403"},
-            {"district" : "fallsburg",        "status" : "closed",     "updated" : "20240404"},
-            {"district" : "highland",         "status" : "none",     "updated" : "20240403"},
-            {"district" : "kingston",         "status" : "earlydismissal",     "updated" : "20240404"},
-            {"district" : "livingston_manor", "status" : "closed",     "updated" : "20240404"},
-            {"district" : "margaretville",    "status" : "closed",     "updated" : "20240404"},
-            {"district" : "marlboro",         "status" : "none",     "updated" : "20240403"},
-            {"district" : "new_paltz",        "status" : "delay",     "updated" : "20240404"},
-            {"district" : "onteora",          "status" : "delay",     "updated" : "20240404"},
-            {"district" : "pine_bush",        "status" : "delay",     "updated" : "20240404"},
-            {"district" : "rondout",          "status" : "delay",     "updated" : "20240404"},
-            {"district" : "saugerties",       "status" : "delay",     "updated" : "20240404"},
-            {"district" : "tri_valley",       "status" : "closed",     "updated" : "20240404"},
-            {"district" : "valley_central",   "status" : "none",     "updated" : "20240403"},
-            {"district" : "wallkill",         "status" : "delay",     "updated" : "20240404"}
+            {"district" : "ellenville",       "status" : "none",     "updated" : "20241204"},
+            {"district" : "fallsburg",        "status" : "none",     "updated" : "20241204"},
+            {"district" : "highland",         "status" : "none",     "updated" : "20241204"},
+            {"district" : "kingston",         "status" : "none",     "updated" : "20241204"},
+            {"district" : "livingston_manor", "status" : "none",     "updated" : "20241204"},
+            {"district" : "margaretville",    "status" : "none",     "updated" : "20241204"},
+            {"district" : "marlboro",         "status" : "none",     "updated" : "20241204"},
+            {"district" : "new_paltz",        "status" : "none",     "updated" : "20241204"},
+            {"district" : "onteora",          "status" : "none",     "updated" : "20241204"},
+            {"district" : "pine_bush",        "status" : "none",     "updated" : "20241204"},
+            {"district" : "rondout",          "status" : "none",     "updated" : "20241204"},
+            {"district" : "saugerties",       "status" : "none",     "updated" : "20241204"},
+            {"district" : "tri_valley",       "status" : "none",     "updated" : "20241204"},
+            {"district" : "valley_central",   "status" : "none",     "updated" : "20241204"},
+            {"district" : "wallkill",         "status" : "none",     "updated" : "20241204"}
                 ] 
     }
 }
